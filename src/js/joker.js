@@ -1,4 +1,4 @@
 import joker from "give-me-a-joke";
-import "example-joker";
+import "robertdacianjoker";
 
 joker.getRandomDadJoke(console.log);
